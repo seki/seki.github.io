@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 permalink: /about/
 ---
 
@@ -8,7 +8,7 @@ Masatoshi Seki / 関将俊 / せきまさとし
 <img width="160" src="https://www.druby.org/me2023.jpg" alt="Me">
 
 - プログラマ、アーティスト
-- 1970年3月生まれ
+- 1970年3月生まれ → [🎁🎂🎁](https://www.amazon.co.jp/registry/wishlist/1R43BBPSPUEEE/)
 - Ruby Core Committer
 - キヤノンメディカルシステムズ株式会社 技術主席
 - toRuby 発足人
