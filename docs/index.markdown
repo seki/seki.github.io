@@ -13,7 +13,7 @@ Masatoshi Seki / 関将俊 / せきまさとし。
 
 ## Ruby
 
-Ruby歴はfjの時代からの付き合いです。2000年のRuby/Perl Conferenceをはじめ、2006から2024年までのRubyKaigiに登壇しました。その他にも多くのRubyのイベントで登壇させてもらいました。
+Ruby歴はfjの時代からの付き合いです。2000年のRuby/Perl Conferenceをはじめ、2006から2024年までのRubyKaigiに登壇しました。その他にも多くのRubyのイベントで登壇経験があります。
 
 RubyのCoreコミッタです。
 HTMLなどの文書にRubyスクリプトを埋め込むテンプレートエンジンのERB（eRuby）、Rubyのための分散オブジェクトシステムdRuby、並列処理糊言語LindaのRuby実装であるRindaを書きました。
@@ -46,3 +46,4 @@ eXtreme Programmingを25年間実践し、そしておそらく世界一長命�
 - [re: 反復開発](https://speakerdeck.com/m_seki/re-iterative-development-iteration-4?slide=4)
 - [JaSST'14 Tohoku](https://www.jasst.jp/symposium/jasst14tohoku/report.html)
 - [Developers Summit 2008 ベストスピーカー](https://codezine.jp/devsumi/2008/best_speaker/)
+
