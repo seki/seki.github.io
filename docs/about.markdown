@@ -1,18 +1,20 @@
 ---
-layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Masatoshi Seki / 関将俊 / せきまさとし
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<img width="200" src="https://2024.rubyworld-conf.org/images/speakers/a-4.jpg" alt="Me">
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- プログラマ、アーティスト
+- 1970年3月生まれ
+- Ruby Core Committer
+- キヤノンメディカルシステムズ株式会社 技術主席
+- toRuby 発足人
+- プログラミング 40年
+- C 30年, C++ 25年, Ruby 25年
+- Extreme Programming 25年
+- アジャイルなチームの立ち上げ たくさん
+- 組込システム30年
+- 分散システム25年
