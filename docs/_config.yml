@@ -21,7 +21,7 @@
 title: a.k.a 咳
 email: m_seki@mac.com
 description: >- # this means to ignore newlines until "baseurl:"
-  このサイトは関と咳に関することを関が書いています。プログラマ、アーティスト、Ruby Core Committer、ミッションクリティカルな組込システムの開発者。
+  このサイトは関と咳に関することを関が書いています。プログラマ、アーティスト、Ruby Core Committer。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: m_seki
