@@ -28,7 +28,7 @@ toRuby（とちぎRubyの勉強会）を発足し、地域Ruby会議、月例の
 - [dRuby and Rinda: Implementation and Application of Distributed Ruby and its Parallel Coordination Mechanism](https://link.springer.com/article/10.1007/s10766-008-0086-1)
 - [Speaker Deck](https://speakerdeck.com/m_seki)
 
-## アジャイル
+## アジャイルとソフトウェアテスト
 
 eXtreme Programmingを25年間実践し、そしておそらく世界一長命なXPのチームを作りました。このチームが私の最高の成果です。
 
