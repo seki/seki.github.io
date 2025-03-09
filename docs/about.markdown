@@ -5,7 +5,7 @@ permalink: /about/
 
 Masatoshi Seki / 関将俊 / せきまさとし
 
-<img width="200" src="https://2024.rubyworld-conf.org/images/speakers/a-4.jpg" alt="Me">
+<img width="160" src="https://www.druby.org/me2023.jpg" alt="Me">
 
 - プログラマ、アーティスト
 - 1970年3月生まれ
@@ -18,4 +18,6 @@ Masatoshi Seki / 関将俊 / せきまさとし
 - アジャイルなチームの立ち上げ たくさん
 - 組込システム30年
 - 分散システム25年
-- 転職先探してます 1年目
+- 求職 1日
+
+「アーティスト」の帽子（→ [ロールプレイングゲーム](https://druby.hatenablog.com/entry/20101202/p1)）のとき、「咳」を名乗ることがあります。

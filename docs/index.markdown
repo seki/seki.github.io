@@ -7,8 +7,7 @@ layout: page
 
 Masatoshi Seki / 関将俊 / せきまさとし。
 
-
-<img width="160" src="https://2024.rubyworld-conf.org/images/speakers/a-4.jpg" alt="Me">
+<img width="160" src="https://www.druby.org/me2023.jpg" alt="Me">
 
 プログラマ、アーティスト。Ruby Core Committer。
 
