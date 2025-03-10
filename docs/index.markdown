@@ -18,7 +18,7 @@ Ruby歴はfjの時代からの付き合いです。2000年のRuby/Perl Conferenc
 RubyのCoreコミッタです。
 HTMLなどの文書にRubyスクリプトを埋め込むテンプレートエンジンのERB（eRuby）、Rubyのための分散オブジェクトシステムdRuby、並列処理糊言語LindaのRuby実装であるRindaを書きました。
 
-toRuby（とちぎRubyの勉強会）を発足し、地域Ruby会議、月例の勉強会を開催しています。勉強会は今月で214回で、ゆるく継続しています。
+toRuby（とちぎRubyの勉強会）を発足し、地域Ruby会議、月例の勉強会を開催しています。勉強会は今月で214回で、ゆるく長く続いています。
 
 ### 主な著作／講演
 
@@ -47,12 +47,21 @@ eXtreme Programmingを25年間実践し、そしておそらく世界一長命�
 - [JaSST'14 Tohoku](https://www.jasst.jp/symposium/jasst14tohoku/report.html)
 - [Developers Summit 2008 ベストスピーカー](https://codezine.jp/devsumi/2008/best_speaker/)
 
+## ポケモンカードゲーム
+
+- 2010マスター栃木県代表
+- [デッキの類似度検索](https://masaki.druby.work)
+
 ## やってみたい
 
-こんな仕事したいです。
+現職の年俸が高いので同じクラスの求人を探すのが大変です。こんな仕事したいです。
 
 - 技術顧問
 - アジャイルチームの立ち上げ、支援
 - ペアプロのペア
 - Rubyを使った製品開発
 
+勤務形態は物理出社、リモートのハイブリッドなどが希望です。
+
+- 栃木県那須塩原市から現実的な交通手段で通える
+- 月1回 〜 週1,2回の出社
