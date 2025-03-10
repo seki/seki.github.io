@@ -33,7 +33,7 @@ eXtreme Programmingを25年間実践し、そしておそらく世界一長命�
 
 対象領域は医用機器の組込システムです。非常に複雑な並行処理と専門家向けの画像処理のGUIアプリケーションで構成されます。
 
-このチームから得た経験は、JaSST'04、XP祭り2004からずっと報告し続けています。
+このチームから得た経験は、JaSST'04、XP祭り2004から不定期に報告しています。
 
 
 ### 主な著作／講演
@@ -46,4 +46,13 @@ eXtreme Programmingを25年間実践し、そしておそらく世界一長命�
 - [re: 反復開発](https://speakerdeck.com/m_seki/re-iterative-development-iteration-4?slide=4)
 - [JaSST'14 Tohoku](https://www.jasst.jp/symposium/jasst14tohoku/report.html)
 - [Developers Summit 2008 ベストスピーカー](https://codezine.jp/devsumi/2008/best_speaker/)
+
+## やってみたい
+
+こんな仕事したいです。
+
+- 技術顧問
+- アジャイルチームの立ち上げ、支援
+- ペアプロのペア
+- Rubyを使った製品開発
 
